@@ -1,0 +1,23 @@
+{
+  "greeting": "안녕",
+  "name": "지현아",
+  "greetingText": "매일 불러도 설레는 이름이야!",
+  "wishText": "내 옆에 앞으로도 쭉 있어줘! ;)",
+  "imagePath": "img/jihyeon.jpg",
+  "text1": "부끄러~~~~ :D",
+  "textInChatBox": "갑자기 이게 뭔 짓이냐고?",
+  "sendButtonLabel": "Send",
+  "text2": "그냥 지나가나는 건 좀 그래서... ",
+  "text3": "워낙 내가 착하잖아",
+  "text4": "그래서 간단하게 준비해봤어",
+  "text4Adjective": "특별한 것을!",
+  "text5Entry": "그 전에 다시 말할게 ",
+  "text5Content": "너 진~~~~~짜 좋아해",
+  "smiley": ":)",
+  "bigTextPart1": "진",
+  "bigTextPart2": "짜",
+  "wishHeading": "365일간 고마웠어! 사랑해 ❤\uFE0F",
+  "outroText": "마음에 들었으면 뽀뽀해줘!",
+  "replayText": "다시 보고싶은 클릭하면 돼",
+  "outroSmiley": ":)"
+}
